@@ -1,0 +1,10 @@
+{
+  "name": "smart-dustbin-workspace",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm --prefix dashboard install",
+    "start": "node dashboard/launch.js",
+    "test": "npm --prefix dashboard test",
+    "setup-hardware": "node dashboard/setup-hardware-bin.js"
+  }
+}
