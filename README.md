@@ -52,7 +52,7 @@ Before starting, make sure you have the following installed on your computer:
 
 1. **Clone the repository**:
    ```bash
-   git clone <REPO_URL>
+   git clone https://github.com/eminence2352/smart-dustbin.git
    cd smart-dustbin
    ```
 
